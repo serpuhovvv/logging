@@ -31,6 +31,8 @@ def log_stop():
 
 
 log_init(dt=str(datetime.datetime.now()))
-passed('aaa')
+passed('aaaggggggggggg')
 failed('ihdbcdskjhs')
+passed('dsvds')
+failed('jdfjhoidoifr')
 log_stop()
